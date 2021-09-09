@@ -1,0 +1,2 @@
+accept file on local repo
+ver1.0
